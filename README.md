@@ -10,10 +10,10 @@
 class GitHubProfile():
     
   def __init__(self):
-    self.name = "Faizan Ahmad";
-    self.username = "fznshk";
-    self.location = "Lahore, Pakistan";
-    self.twitter = "@itssfaizan";
+    self.name = "Faizan Ahmad"
+    self.username = "fznshk"
+    self.location = "Lahore, Pakistan"
+    self.twitter = "@itssfaizan"
 
   
   def __str__(self):
