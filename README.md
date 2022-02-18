@@ -7,7 +7,7 @@
 
 
 ```python
-class GitHubProfile():
+class GitHubProfile:
     
   def __init__(self):
     self.name = "Faizan Ahmad"
