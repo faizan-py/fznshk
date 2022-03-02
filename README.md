@@ -14,6 +14,7 @@ class GitHubProfile:
     self.username = "fznshk"
     self.location = "Lahore, Pakistan"
     self.twitter = "@itssfaizan"
+    self.company = "Synares Systems"
 
   
   def __str__(self):
