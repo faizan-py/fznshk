@@ -11,7 +11,7 @@ class GitHubProfile:
     
   def __init__(self):
     self.name = "Faizan Ahmad"
-    self.username = "fznshk"
+    self.username = "faizan-py"
     self.location = "Lahore, Pakistan"
     self.twitter = "@itssfaizan"
     self.company = "Synares Systems"
